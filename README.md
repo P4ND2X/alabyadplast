@@ -1,2 +1,2 @@
-# alabyadplast
-Updater for Alabyad Plast
+# Alabyad Plast version config
+Updates for Alabyad Plast
